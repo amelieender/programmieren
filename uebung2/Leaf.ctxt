@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Leaf
+comment0.text=\n\ Diese\ Klasse\ stellt\ ein\ Kleeblatt\ zur\ Verfuegung.\n\ \n\ Kara\ kann\ Kleeblaetter\ aufnehmen\ und\ auch\ Kleeblaetter\ auf\ Felder\ platziern.\n\ \n\ @author\ Marco\ Jakob\n\ @version\ 20.01.2011\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\n\ Diese\ Methode\ wird\ aufgerufen,\ sobald\ ein\ Blatt-Objekt\ auf\ der\ Welt\ platziert\ wurde.\n\ Es\ wird\ ueberprueft,\ ob\ das\ Blatt\ auf\ dieses\ Feld\ gesetzt\ werden\ darf.\ Falls\ nicht,\ wird\ eine\ \n\ Fehlermeldung\ ausgegeben.\n
+numComments=2

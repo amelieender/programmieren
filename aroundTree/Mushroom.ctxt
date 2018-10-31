@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Mushroom
+comment0.text=\n\ Diese\ Klasse\ stellt\ einen\ Pilz\ zur\ Verfuegung.\n\ \n\ Kara\ kann\ Pilze\ schieben,\ falls\ hinter\ dem\ Pilz\ nicht\ ein\ weitere\ Pilz\ oder\ \n\ ein\ Baum\ steht.\n\n\ @author\ Marco\ Jakob\n\ @version\ 20.01.2011\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\n\ Diese\ Methode\ wird\ aufgerufen,\ sobald\ ein\ Baum-Objekt\ auf\ der\ Welt\ platziert\ wurde.\n\ Es\ wird\ ueberprueft,\ ob\ der\ Baum\ auf\ dieses\ Feld\ gesetzt\ werden\ darf.\ Falls\ nicht,\ wird\ eine\ \n\ Fehlermeldung\ ausgegeben.\n
+numComments=2

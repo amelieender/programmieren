@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyKara
+comment0.text=\n\ Die\ Klasse\ Kara\ implementiert\ Methoden,\ die\ Kara\ ausf\u00FChren\ kann\n\ @author\ \:\ Joern\ Freiheit\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Bei\ Druecken\ des\ Knopfes\ '>Act'\ wird\ die\ Methode\ act()\ aufgerufen\n
+numComments=2

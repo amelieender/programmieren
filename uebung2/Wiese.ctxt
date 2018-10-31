@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Wiese
+comment0.text=\n\ Diese\ Klasse\ erstellt\ eine\ Welt\ f\u00FCr\ Kara.\ Sie\ enthaelt\ Einstellungen\ ueber\n\ die\ Hoehe\ und\ Breite\ der\ Welt\ und\ initialisiert\ alle\ Actors.\n\ \n\ @author\ Marco\ Jakob\n\ @version\ 04.04.2011\n
+comment1.params=
+comment1.target=Wiese()
+comment1.text=\n\ Erstellt\ eine\ Welt\ fuer\ Kara.\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Bereite\ die\ Welt\ fuer\ den\ Programmstart\ vor.\ Das\ heisst\:\ Erzeuge\ die\ Anfangs-\n\ Objekte\ und\ fuege\ sie\ der\ Welt\ hinzu.\n\ \n\ Tipp\:\ Die\ Objekte\ zuerst\ mit\ der\ Maus\ in\ der\ Welt\ platzieren.\ Anschliessend\ \n\ Rechtsklick\ auf\ die\ Welt,\ dann\ 'Die\ Welt\ speichern'\ auswaehlen.\ So\ werden\ alle\n\ Objekte\ automatisch\ in\ diese\ Methode\ geschrieben.\n
+numComments=3
